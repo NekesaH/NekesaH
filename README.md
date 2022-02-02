@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NekesaH
 - 👀 I’m interested in backend development,API, Linux
-- 🌱 I’m currently learning  and working Django and React projects
+- 🌱 I’m currently learning  and working Django, Fast API and ReactNative projects
 - 💞️ I’m looking to collaborate on Django, Fast API
 - Machine learning enthusiast
 - 📫 How to reach me nekesacharity13@gmail.com
