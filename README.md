@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NekesaH
-- 👀 I’m interested in DevOps, Backend development, API, Linux
+- 👀 I’m interested in DevOps, Security, API, Linux
 - 🌱 I’m currently learning and working DevOps,NodeJS, Fast API and ReactNative projects
 - 💞️ I’m looking to collaborate on Backend Projects
-- Machine learning enthusiast
+- Cyber security enthusiast
 - 📫 How to reach me nekesacharity13@gmail.com
 
 <!---
