@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NekesaH
-- 👀 I’m interested in DevOps, Security, API, Linux
-- 🌱 I’m currently learning and working DevOps,NodeJS, Fast API and ReactNative projects
+- 👀 I’m interested in Application security
+- 🌱 I’m currently learning and working on APIs
 - 💞️ I’m looking to collaborate on Backend Projects
 - Cyber security enthusiast
 - 📫 How to reach me nekesacharity13@gmail.com
